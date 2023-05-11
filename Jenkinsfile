@@ -3,7 +3,7 @@
 
 
 
-// @Library('roboshop') _
-//
-// env.COMPONENT = "frontend"
-// nginx()
+@Library('roboshop') _
+
+env.COMPONENT = "frontend"
+nginx()
