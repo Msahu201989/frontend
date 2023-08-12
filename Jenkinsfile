@@ -1,4 +1,4 @@
 @Library('augustroboshop') _
 
-env.component="nginx"
+env.COMPONENT="nginx"
 nginx()
